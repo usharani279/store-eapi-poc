@@ -82,7 +82,7 @@ output application/json
                         <ee:set-variable variableName="httpStatus">501</ee:set-variable>
                     </ee:variables>
                 </ee:transform>
-            </on-error-propagate>
+            </on-error-propagate>     
         </error-handler>
 	
 	</mule>

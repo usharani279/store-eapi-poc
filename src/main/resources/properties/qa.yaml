@@ -4,8 +4,6 @@ http:
   host: "0.0.0.0"
   
  request:
-  port: "![/2P8rG3ZCddzGoLHYXXMAQ==]"
-  host: "![HRihUFFum6aIMdBnQr3UHg==]"
   customerPath: "/api/customer"
   productPath: "/api/product"
   transactionPath: "/api/transaction"
